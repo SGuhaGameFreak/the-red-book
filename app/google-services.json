@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "544849511719",
+    "firebase_url": "https://the-red-book-74b10.firebaseio.com",
+    "project_id": "the-red-book-74b10",
+    "storage_bucket": "the-red-book-74b10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544849511719:android:617d9aed276cf718ed9502",
+        "android_client_info": {
+          "package_name": "com.example.theredbook"
+        }
+      },
+      "oauth_client": [
+        {
+
+
+
+          "client_id": "544849511719-vi5hm8j0m99138c512b3rg11jtttc8j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.theredbook",
+            "certificate_hash": "ee59c513c70a434d4c9119426119f32a5ff4d50e"
+          }
+        },
+        {
+          "client_id": "544849511719-ddob1u7ehhjkdq781ovah971td4g0nn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxnGtaVgzqGICzjn19OTnXGRQhXW7k4qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544849511719-ddob1u7ehhjkdq781ovah971td4g0nn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
